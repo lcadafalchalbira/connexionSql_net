@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\lcada\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lcada\\.nuget\\packages"
+    ]
+  }
+}
